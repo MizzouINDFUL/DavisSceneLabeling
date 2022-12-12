@@ -127,9 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-/input/models/
+
 .idea/
-/input/coco_images/
-input/image_results/
-visualizations/hist_vis/
-/scene_labeling_env/
+
+input/models/yolo/yolov3.weights
+/input/models/torchvision_models/
